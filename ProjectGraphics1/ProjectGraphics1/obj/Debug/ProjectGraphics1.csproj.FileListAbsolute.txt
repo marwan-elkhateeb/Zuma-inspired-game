@@ -1,0 +1,9 @@
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.csproj.AssemblyReference.cache
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.Properties.Resources.resources
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.csproj.GenerateResource.cache
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.csproj.CoreCompileInputs.cache
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\bin\Debug\ProjectGraphics1.exe.config
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\bin\Debug\ProjectGraphics1.exe
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\bin\Debug\ProjectGraphics1.pdb
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.exe
+C:\Users\Marwan El_khateeb\Desktop\ProjectGraphics1\ProjectGraphics1\obj\Debug\ProjectGraphics1.pdb
